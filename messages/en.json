@@ -1,0 +1,21 @@
+{
+  "Index": {
+    "title": "Hello world!"
+  },
+  "NotFoundPage": {
+    "title": "not found"
+  },
+  "Blog": {
+    "title": "this is blog in EN"
+  },
+  "About": {
+    "title": "this is About in EN"
+  },
+  "News": {
+    "title": "This is a news on slug {articleSlug}"
+  },
+  "LocaleSwitcher": {
+    "label": "Change language",
+    "locale": "{locale, select, de {🇩🇪 Deutsch} en {🇺🇸 English} other {Unknown}}"
+  }
+}

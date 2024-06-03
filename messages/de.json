@@ -1,0 +1,21 @@
+{
+  "Index": {
+    "title": "Hallo Wereld! Dit zal Bangla-inhoud zijn"
+  },
+  "NotFoundPage": {
+    "title": "niet gevonden"
+  },
+  "Blog": {
+    "title": "dit is een blog"
+  },
+  "About": {
+    "title": "dit gaat over"
+  },
+  "News": {
+    "title": "Dit is nieuws over naaktslak {articleSlug}"
+  },
+  "LocaleSwitcher": {
+    "label": "Sprache ändern",
+    "locale": "{locale, select, de {🇩🇪 Deutsch} en {🇺🇸 English} other {Unbekannt}}"
+  }
+}
